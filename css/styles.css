@@ -1,15 +1,14 @@
-h2.intro {
+.intro {
   color: green
 
 }
 
-p.intro{
+.intro{
   text-align: center;
   color: red
 
 }
-
-img.intro{
+.intro{
   align-items: center;
   border-style: double;
 }
