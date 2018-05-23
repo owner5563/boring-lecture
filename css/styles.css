@@ -1,0 +1,15 @@
+h2.intro {
+  color: green
+
+}
+
+p.intro{
+  text-align: center;
+  color: red
+
+}
+
+img.intro{
+  align-items: center;
+  border-style: double;
+}
